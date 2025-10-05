@@ -23,7 +23,7 @@ export default function Navbar() {
                     <li><Link href="#solution" className="nav_link flex gap-2 items-center">How it works</Link></li>
                     <li><Link href="#features" className="nav_link">Features</Link></li>
                 </ul>
-                <a href="#" className="nav_btn">Get Demo</a>
+                <a href="https://nasa-demo-zeta.vercel.app/" className="nav_btn">Get Demo</a>
             </div>
         </div>
     );

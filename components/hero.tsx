@@ -20,8 +20,8 @@ export default function Hero() {
             <h1 className="hero_title mt-[7vh] mb-[2vh]">AI Smart Agent Emergency Situations Detector</h1>
             <h4 className="hero_desc">Observe real-time ground activity to provide emergency assistance</h4>
             <div className="hero_btns">
-                <a href="#" className="main_btn">Get Demo Version - It’s free</a>
-                <a href="https://www.canva.com/design/DAG0z5rYAIg/9d6XVeC_eYjz6fw_mtjB3A/edit?utm_content=DAG0z5rYAIg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" className="secondary_btn">Know more about our team <Image src="/arrow-right.svg" alt="arrow" width={24} height={24} /></a>
+                <a href="https://nasa-demo-zeta.vercel.app/" className="main_btn">Get Demo Version - It’s free</a>
+                <a href="https://www.canva.com/design/DAG08Tw9PhY/ZDD8WX3i1_LU_UfAeW1abQ/view?utm_content=DAG08Tw9PhY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d8ece0737" className="secondary_btn">Know more about our team <Image src="/arrow-right.svg" alt="arrow" width={24} height={24} /></a>
             </div>
             <div className="hero_mood flex items-center justify-center mt-[10vh] mb-[10vh]">
                     <Image src="/hero_1.svg" alt="dark hole" width={822} height={447}/>
